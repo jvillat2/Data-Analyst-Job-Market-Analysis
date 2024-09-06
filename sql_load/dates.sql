@@ -105,5 +105,3 @@ where  job_work_from_home = True
 group by skills
 order by total_remote_jobs desc;
 
-select count(*)
-from skills_job_dim
