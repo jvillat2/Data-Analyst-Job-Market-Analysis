@@ -15,12 +15,3 @@ GROUP BY
 ORDER BY
     demand_count DESC, avg_salary DESC
 LIMIT 20;
-
-
-select job_location
-from job_postings_fact
-where job_location like '%VA%';
-
-
-HAVING
-    COUNT(skills_job_dim.job_id) > 10
