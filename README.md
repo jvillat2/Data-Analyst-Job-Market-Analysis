@@ -11,7 +11,8 @@ This project analyzes job postings for Data Analyst roles in Virginia (VA) to id
 The analysis is conducted through a series of SQL queries designed to answer key questions about the job market for Data Analysts in Virginia:
 
 Top Paying Skills: Identify the highest-paying skills for Data Analysts in Virginia.
-Top Paying Jobs: Determine the top-paying Data Analyst positions in Virginia.
+
+Top Paying Company: Identify the companies offering the highest-paying Data Analyst positions in Virginia.
 
 Top Demanding Skills: Find out which skills are most frequently required for Data Analyst roles in Virginia.
 
@@ -22,7 +23,7 @@ Optimal Skills: Identify skills that are both in high demand and offer competiti
 ## Analysis and Insights
 Top Paying Skills: The analysis reveals that the "Go" programming language is the highest-paying skill for Data Analysts in VA, offering an average salary of $186,125. Other high-paying skills include "Terminal," "Splunk," "Matlab," and "Windows," indicating that proficiency in specialized tools and programming languages can increase earning potential.[Click here to view query](/project_sql/top_paying_skill.sql)
 
-Top Paying Jobs: The highest-paying Data Analyst position in VA is offered by GovCIO, with a salary of $225,000. Positions in companies like Ball and Guidehouse also offer salaries above $200,000, particularly for roles with specific requirements such as security clearances or advanced technical skills.[Click here to view query](/project_sql/top_paying_job.sql)
+Top Paying Company: The highest-paying Data Analyst position in VA is offered by GovCIO, with a salary of $225,000. Positions in companies like Ball and Guidehouse also offer salaries above $200,000, particularly for roles with specific requirements such as security clearances or advanced technical skills.[Click here to view query](/project_sql/top_paying_job.sql)
 
 Skills in High-Paying Jobs: In high-paying Data Analyst roles, the most common skills are "SQL," "Python," and "Tableau," suggesting that proficiency of these skills are essential for securing high earning positions.
 [Click here to view query](/project_sql/skills_of_top_paying_jobs.sql)
