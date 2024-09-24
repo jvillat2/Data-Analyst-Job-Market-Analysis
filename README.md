@@ -26,7 +26,7 @@ Top Paying Skills: The analysis reveals that the "Go" programming language is th
 Top Paying Company: The highest-paying Data Analyst position in VA is offered by GovCIO, with a salary of $225,000. Positions in companies like Ball and Guidehouse also offer salaries above $200,000, particularly for roles with specific requirements such as security clearances or advanced technical skills.[Click here to view query](/project_sql/top_paying_job.sql)
 
 Skills in High-Paying Jobs: In high-paying Data Analyst roles, the most common skills are "SQL," "Python," and "Tableau," suggesting that proficiency of these skills are essential for securing high earning positions.
-[Click here to view query](/project_sql/skills_of_top_paying_jobs.sql)
+[Click here to view query](/project_sql/skills_of_top_paying_Company.sql)
 
 In-Demand Skills: The most demanded skills in VA for Data Analysts are "SQL," "Python," "Tableau," "Excel," and "SAS." These skills are crucial for securing a Data Analyst position, as they are frequently requested by employers. [Click here to view query](/project_sql/top_damanding_skills.sql)
 
