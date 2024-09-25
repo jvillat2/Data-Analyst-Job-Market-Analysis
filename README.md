@@ -1,14 +1,10 @@
 # Data Analyst Job Market Analysis - Virginia
 
-## Project Description
-This project analyzes job postings for Data Analyst roles in Virginia (VA) to identify top-paying skills, highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries. The analysis is based on data from a job postings dataset.
+## Project Background
+This project analyzes job postings for Data Analyst roles in Virginia (VA) to identify top-paying skills, companies who offer the highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries.
 
-### Tools Used
-- Visual Code Studio
-- PostgreSQL 
 
-## Project Overview
-The analysis is conducted through a series of SQL queries designed to answer key questions about the job market for Data Analysts in Virginia:
+The analysis is conducted through a series of SQL queries designed to answer key questions about the job market for Data Analysts in Virginia. Insight are provided on the following key areas:
 
 Top Paying Skills: Identify the highest-paying skills for Data Analysts in Virginia.
 
@@ -19,6 +15,18 @@ Top Demanding Skills: Find out which skills are most frequently required for Dat
 Skills in High-Paying Jobs: Find which skills are required in the top earning data analyst job in virgina.
 
 Optimal Skills: Identify skills that are both in high demand and offer competitive salaries.
+
+### Tools Used
+- Visual Code Studio
+- PostgreSQL 
+
+## Data Structure
+The dataset is comprised of data analysis job posting data scraped from across several job board website such as Indeed, Linkedin, Moster, etc... from 12/31/2022 - 12/31/2023.
+
+The database structure as seen below contains 3 tables: job_postings_fact, skills_job_dim, and skills_dim.
+
+![alt text](image.png)
+
 
 ## Analysis and Insights
 Top Paying Skills: The analysis reveals that the "Go" programming language is the highest-paying skill for Data Analysts in VA, offering an average salary of $186,125. Other high-paying skills include "Terminal," "Splunk," "Matlab," and "Windows," indicating that proficiency in specialized tools and programming languages can increase earning potential.[Click here to view query](/project_sql/top_paying_skill.sql)
