@@ -1,18 +1,18 @@
-# Data Analyst Job Market Analysis - Virginia
+# Data Analyst Job Market Analysis
 
 ## Project Background
-This project analyzes job postings for Data Analyst roles in Virginia (VA) to identify top-paying skills, companies who offer the highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries.
+This project analyzes job postings for Data Analyst roles in the US to identify top-paying skills, companies who offer the highest-paying job opportunities, most demanded skills, and optimal skills that combine both high demand and competitive salaries.
 
 
-The analysis is conducted through a series of SQL queries designed to answer key questions about the job market for Data Analysts in Virginia. Insight are provided on the following key areas:
+The analysis is conducted through a series of SQL queries designed to answer key questions about the job market for Data Analysts in the US. Insight are provided on the following key areas:
 
-Top Paying Skills: Identify the highest-paying skills for Data Analysts in Virginia.
+Top Paying Skills: Identify the highest-paying skills for Data Analysts in the US.
 
-Top Paying Company: Identify the companies offering the highest-paying Data Analyst positions in Virginia.
+Top Paying Company: Identify the companies offering the highest-paying Data Analyst positions in the US.
 
-Top Demanding Skills: Find out which skills are most frequently required for Data Analyst roles in Virginia.
+Top Demanding Skills: Find out which skills are most frequently required for Data Analyst roles in the US.
 
-Skills in High-Paying Jobs: Find which skills are required in the top earning data analyst job in virgina.
+Skills in High-Paying Jobs: Find which skills are required in the top earning data analyst job in the US.
 
 Optimal Skills: Identify skills that are both in high demand and offer competitive salaries.
 
@@ -25,7 +25,7 @@ The dataset is comprised of data analysis job posting data scraped from across s
 
 The database structure as seen below contains 3 tables: job_postings_fact, skills_job_dim, and skills_dim.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## Analysis and Insights
@@ -41,4 +41,4 @@ In-Demand Skills: The most demanded skills in VA for Data Analysts are "SQL," "P
 Optimal Skills: The optimal skills, which combine high demand with competitive salaries, include "SQL," "Python," "Tableau," and "R." These skills not only offer a strong salary but are also frequently required, making them valuable for career advancement. [Click here to view query](/project_sql/optimal_skills.sql)
 
 ## Conclusion
-This analysis provides valuable insights into the skills and qualifications that can lead to higher salaries and better job opportunities for Data Analysts in Virginia. Professionals seeking to maximize their earning potential should focus on acquiring and honing skills such as "Go," "Python," "SQL," and "Tableau," while also considering the specific requirements of high-paying job postings.
+This analysis provides valuable insights into the skills and qualifications that can lead to higher salaries and better job opportunities for Data Analysts in the US. Professionals seeking to maximize their earning potential should focus on acquiring and honing skills such as "Go," "Python," "SQL," and "Tableau," while also considering the specific requirements of high-paying job postings.
