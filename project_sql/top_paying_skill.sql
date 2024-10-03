@@ -6,5 +6,3 @@ AND job_country = 'United States'
 group by skills
 order by avg_salary_skill desc
 limit 20;
-
-
